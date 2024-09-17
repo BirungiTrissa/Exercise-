@@ -1,0 +1,26 @@
+public class exampleOne{
+  public static void main(String[] args)
+  {
+    //Arithmetic Operators
+    int a= 10;
+    int b= 5;
+    
+    //Addition
+    int sum=a+b;
+    
+    //Subtraction
+    int difference=a-b;
+    
+    //Multiplication
+   int product =a*b;
+   
+   //division
+   int quotient=a/b;
+    
+    
+    System.out.println("sum=" +sum);
+    System.out.println("difference:" +difference);
+    System.out.println("product:" +product);
+    System.out.println("quotient:"+quotient);
+    
+    }}
